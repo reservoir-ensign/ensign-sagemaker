@@ -1,0 +1,7 @@
+Decomposition Statistics:
+time: 0.09307003021240234
+fit: 0.7294033635141473
+cosine_sim: 0.9642916002165712
+norm_scaling: 0.908786375906671
+coverage: 1.0
+cp_total_iter: 0
